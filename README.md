@@ -1,0 +1,1 @@
+Personal React resume created in typescript
